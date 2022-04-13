@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="IE=9" http-equiv="X-UA-Compatible" />
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
+    <meta name="description" />
+    <meta name="author" />
+    <link href="http://rais.gov.br/sitio/img/favicon.ico" rel="icon" />
+    <title>RAIS 2021</title>
+    <link href="http://rais.gov.br/sitio/css/vendor/bootstrap.min.css" rel="stylesheet" />
+    <link href="http://rais.gov.br/sitio/css/rais-bootstrap.css" media="all" rel="stylesheet" />
+    <script src="http://rais.gov.br/sitio/js/vendor/jquery.js"></script>
+    <script src="http://rais.gov.br/sitio/js/vendor/jquery-ui.js"></script>
+    <script src="http://rais.gov.br/sitio/js/rais.js"></script>
+    <script src="http://rais.gov.br/sitio/js/vendor/html5shiv.min.js"></script>
+    <script src="http://rais.gov.br/sitio/js/vendor/respond.min.js"></script>
+    <script>
+        // TODO - mover para script externo
+        $(function () {
+            $('div.highlight, div.rais-fechar').find('a, button').on('click', function (e) {
+                e.preventDefault();
+                $('div.rais-menu').slideToggle();
+                return false;
+            });
+        });
+    </script>
+</head>
+
+<body>
+    <div id="barra-brasil"></div>
+    <nav class="navbar navbar-default navbar-rais navbar-static-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header"> <button aria-controls="navbar" aria-expanded="false"
+                    class="navbar-toggle collapsed" data-target="#navbar" data-toggle="collapse" type="button"> <span
+                        class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span
+                        class="icon-bar"></span> <span class="icon-bar"></span> </button> </div>
+            <div class="navbar-collapse collapse container-accessibility">
+                <ul class="nav navbar-nav navbar-accessibility">
+                    <li><a accesskey="1"
+                            href="http://rais.gov.br/sitio/consulta_trabalhador_lista.jsf;jsessionid=sp3vphryl9gcgsmvs-oeiju-.3#acontent">Ir
+                            para o conteúdo<span>1</span></a></li>
+                    <li><a accesskey="2"
+                            href="http://rais.gov.br/sitio/consulta_trabalhador_lista.jsf;jsessionid=sp3vphryl9gcgsmvs-oeiju-.3#amenu">Ir
+                            para o menu<span>2</span></a></li>
+                    <li><a accesskey="4"
+                            href="http://rais.gov.br/sitio/consulta_trabalhador_lista.jsf;jsessionid=sp3vphryl9gcgsmvs-oeiju-.3#afooter">Ir
+                            para o rodapé<span>3</span></a></li>
+                </ul>
+                <ul class="nav navbar-nav navbar-accessibility navbar-right">
+                    <li class="text-left"><a accesskey="4"
+                            href="http://rais.gov.br/sitio/consulta_trabalhador_lista.jsf;jsessionid=sp3vphryl9gcgsmvs-oeiju-.3"
+                            title="Acessibilidade">ACESSIBILIDADE</a></li>
+                    <li class="text-center"><a accesskey="5"
+                            href="http://rais.gov.br/sitio/consulta_trabalhador_lista.jsf;jsessionid=sp3vphryl9gcgsmvs-oeiju-.3"
+                            title="Alto Contraste">CONTRASTE</a></li>
+                    <li class="text-right"><a accesskey="6"
+                            href="http://rais.gov.br/sitio/consulta_trabalhador_lista.jsf;jsessionid=sp3vphryl9gcgsmvs-oeiju-.3"
+                            title="Mapa do Site">MAPA DO SITE</a></li>
+                </ul>
+            </div>
+            <div class="row rais-header">
+                <div class="col-md-8">
+                    <p>Relação Anual de Informações Sociais </p>
+                    <h1 class="portal-marca">RAIS</h1>
+                    <p>MINISTÉRIO DO TRABALHO E PREVIDÊNCIA</p>
+                </div>
+                <div class="col-md-4 text-right rais-tools"> <a class="rais-fale-conosco"
+                        href="http://rais.gov.br/sitio/fale_conosco.jsf" title="Fale Conosco">FALE CONOSCO</a> <a
+                        class="rais-print" href="javascript:window.print();" title="Imprimir Página">IMPRIMIR</a> </div>
+            </div>
+        </div>
+        <div class="rais-main-menu highlight">
+            <div class="container">
+                <div class="row"> <a class="col-md-4 rais-menu-sobre"
+                        href="http://rais.gov.br/sitio/consulta_trabalhador_lista.jsf;jsessionid=sp3vphryl9gcgsmvs-oeiju-.3">SOBRE
+                        A RAIS</a> <a class="col-md-4 rais-menu-entrega"
+                        href="http://rais.gov.br/sitio/consulta_trabalhador_lista.jsf;jsessionid=sp3vphryl9gcgsmvs-oeiju-.3">ENTREGA
+                        DA DECLARAÇÃO</a> <a class="col-md-4 rais-menu-entregue"
+                        href="http://rais.gov.br/sitio/consulta_trabalhador_lista.jsf;jsessionid=sp3vphryl9gcgsmvs-oeiju-.3">DECLARAÇÃO
+                        JÁ ENTREGUE</a> </div>
+            </div>
+        </div>
+    </nav>
+    <form action="/sitio/consulta_trabalhador_lista.jsf" enctype="application/x-www-form-urlencoded" id="j_idt7"
+        method="post" name="j_idt7"> <input name="j_idt7" type="hidden" value="j_idt7" />
+        <div class="container rais-menu">
+            <div class="row">
+                <div class="col-md-4">
+                    <h4>RAIS</h4>
+                    <ul>
+                        <li><a href="http://rais.gov.br/sitio/sobre.jsf">O que é RAIS</a></li>
+                        <li><a href="http://rais.gov.br/sitio/quem_deve_declarar.jsf">Quem deve declarar</a></li>
+                        <li><a href="http://rais.gov.br/sitio/quem_deve_ser_relacionado.jsf">Quem deve ser
+                                relacionado</a></li>
+                        <li><a href="http://rais.gov.br/sitio/quem_nao_deve_ser_relacionado.jsf">Quem não deve ser
+                                relacionado</a></li>
+                        <li><a href="http://rais.gov.br/sitio/como_informar.jsf">Como informar</a></li>
+                        <li><a href="http://rais.gov.br/sitio/como_transmitir.jsf">Como transmitir</a></li>
+                        <li><a href="http://rais.gov.br/sitio/como_informar.jsf#comprovante">Como comprovar a entrega da
+                                declaração</a></li>
+                        <li class="star"><a href="http://rais.gov.br/sitio/rais_ftp/ManualRAIS2021.pdf">Leia o Manual de
+                                orientação</a> </li>
+                        <li><a href="http://rais.gov.br/sitio/como_informar.jsf#penalidade">Multa</a></li>
+                        <li><a href="http://rais.gov.br/sitio/duvidas.jsf">Dúvidas Frequentes</a></li>
+                    </ul>
+                    <h4>RAIS NEGATIVA</h4>
+                    <ul>
+                        <li><a href="http://rais.gov.br/sitio/sobre_negativa.jsf">O que é RAIS negativa</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <h4>PARA GERAR DECLARAÇÃO DA RAIS</h4>
+                    <ul>
+                        <li class="star"><a href="http://rais.gov.br/sitio/download.jsf">Download de programas</a></li>
+                        <li><a href="http://rais.gov.br/sitio/tabelas.jsf">Tabelas</a></li>
+                    </ul>
+                    <h4>DECLARAR A RAIS NEGATIVA</h4>
+                    <ul>
+                        <li><a href="http://rais.gov.br/sitio/negativa.jsf">Declaração RAIS Negativa</a></li>
+                        <li><a href="http://rais.gov.br/sitio/importar_negativa.jsf">Importar uma Declaração
+                                Negativa</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <ul>
+                        <li class="star"><a href="http://rais.gov.br/sitio/recibo_identificacao.jsf">Impressão do recibo
+                                de entrega</a></li>
+                        <li class="star"><a href="http://rais.gov.br/sitio/consulta_crea_identificacao.jsf">Consultar
+                                Crea</a></li>
+                        <li><a href="http://rais.gov.br/sitio/consulta_trabalhador_identificacao.jsf">Consultar
+                                Trabalhador</a></li>
+                        <li><a href="http://rais.gov.br/sitio/obter_declaracao.jsf">Obter declaração</a></li>
+                    </ul>
+                    <h4>RETIFICAR OU EXCLUIR</h4>
+                    <ul>
+                        <li><a href="http://rais.gov.br/sitio/retificacao/prazo.jsf">Retificação: ano-base 2021 </a>
+                        </li>
+                        <li><a href="http://rais.gov.br/sitio/retificacao/anterior.jsf">Retificação: ano-base 2008 a
+                                2020 </a></li>
+                        <li><a href="http://rais.gov.br/sitio/retificacao/anteriores.jsf">Retificação: anos anteriores
+                                (1976-2007)</a></li>
+                        <li><a href="http://rais.gov.br/sitio/formulario.jsf">Retificação: dados do estabelecimento</a>
+                        </li>
+                        <li><a href="http://rais.gov.br/sitio/exclusao_estabelecimento_identificacao.jsf">Exclusão de
+                                estabelecimento: ano-base 2021 </a></li>
+                        <li><a href="http://rais.gov.br/sitio/exclusao_vinculo_identificacao.jsf">Exclusão de vínculos:
+                                ano-base 2008 a 2021 </a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row rais-fechar"> <a class="col-md-12 btn btn-link"
+                    href="http://rais.gov.br/sitio/consulta_trabalhador_lista.jsf;jsessionid=sp3vphryl9gcgsmvs-oeiju-.3"><span
+                        class="glyphicon glyphicon-remove"></span> Fechar</a> </div>
+        </div><input autocomplete="off" id="javax.faces.ViewState" name="javax.faces.ViewState" type="hidden"
+            value="H4sIAAAAAAAAAFvzloG1oLiIQTArsSxRr7QkM0fPI7E4wzexgJX91sHDYgkXmRmY3Bi4cvITU9wSk0vyizwZOEsyilKLM/JzUioK7B0YQICnnANICgAxUwkDa1Z8ZophaRGDcLQP2NicxLx0Pf+krNTkEusJ5yLmCxRr5jAxMFQUgNQXlDCoWJqbmBunpaboWiSnmuqamKQa6iYZpqToJqcZpFkaGxgkJxqnlTDIJOfn6hWX5umlJSanFuu5VOYl5mYmOyaXZObnFQP9IIzwg2NRUWKlT2ZxSUXjJdmZxxPnMjMwejKwFGdWpYJtZShnAZEVFQASxncsAAEAAA==" />
+    </form> <a name="acontent"></a>
+    <div class="container">
+        <div class="row">
+            <ol class="col-md-12 breadcrumb breadcrumb-rais">
+                <li>Você está aqui</li>
+                <li><a href="http://rais.gov.br/sitio/index.jsf">Página Inicial</a></li>
+                <li><a href="http://rais.gov.br/sitio/consulta_trabalhador_identificacao.jsf">Consulta Trabalhador</a>
+                </li>
+                <li class="active">Consulta Trabalhador - Resultado</li>
+            </ol>
+        </div>
+        <div class="row hide" id="messages">
+            <div class="alert text-center" role="alert">
+                <p>Sua declaração foi enviada com sucesso.</p>
+            </div>
+        </div>
+        <div class="row">
+            <h3>Consulta Trabalhador - Resultado</h3>
+        </div>
+        <div class="row"> </div>
+        <form action="/sitio/consulta_trabalhador_lista.jsf" enctype="application/x-www-form-urlencoded" id="j_idt27"
+            method="post" name="j_idt27"> <input name="j_idt27" type="hidden" value="j_idt27" />
+            <div class="row">
+                <div class="col-md-12">
+                    <p>Se encontrar alguma divergência, entre em contato com a sua empresa.</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <p>Código PIS/PASEP - </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <table class="table table-striped table-bordered table-hover">
+                        <thead>
+                            <tr>
+                                <td>CNPJ/CAEPF/CEI/CNO</td>
+                                <td>Razão Social</td>
+                                <td>Situação</td>
+                                <td>Data da Entrega</td>
+                                <td>Data da Admissão</td>
+                                <td>Data de Desligamento</td>
+                            </tr>
+                        </thead>
+                        <tbody> </tbody>
+                    </table>
+                </div>
+            </div><input class="btn btn-rais btn-sm btn-primary" name="j_idt27:j_idt45" type="submit"
+                value="Voltar" /> <input class="btn btn-rais btn-sm btn-primary" name="j_idt27:j_idt47" type="submit"
+                value="Sair" /><input autocomplete="off" id="javax.faces.ViewState" name="javax.faces.ViewState"
+                type="hidden"
+                value="H4sIAAAAAAAAAFvzloG1oLiIQTArsSxRr7QkM0fPI7E4wzexgJX91sHDYgkXmRmY3Bi4cvITU9wSk0vyizwZOEsyilKLM/JzUioK7B0YQICnnANICgAxUwkDa1Z8ZophaRGDcLQP2NicxLx0Pf+krNTkEusJ5yLmCxRr5jAxMFQUgNQXlDCoWJqbmBunpaboWiSnmuqamKQa6iYZpqToJqcZpFkaGxgkJxqnlTDIJOfn6hWX5umlJSanFuu5VOYl5mYmOyaXZObnFQP9IIzwg2NRUWKlT2ZxSUXjJdmZxxPnMjMwejKwFGdWpYJtZShnAZEVFQASxncsAAEAAA==" />
+        </form>
+    </div> <a name="amenu"></a>
+    <footer>
+        <div class="container rais-topo">
+            <div class="row">
+                <div class="col-md-12 text-right"> <a
+                        href="http://rais.gov.br/sitio/consulta_trabalhador_lista.jsf;jsessionid=sp3vphryl9gcgsmvs-oeiju-.3"
+                        title="Voltar ao topo"><span class="glyphicon glyphicon-chevron-up"></span> voltar ao topo</a>
+                </div>
+            </div>
+        </div> <a name="afooter"></a>
+        <div class="rais-ministerio">
+            <div class="container">
+                <div class="title"> MINISTÉRIO DO TRABALHO E PREVIDÊNCIA</div>
+                <div class="subtitle">Central de Atendimento da <abbr
+                        title="Relação Anual de Informações Sociais">RAIS</abbr></div>
+                <div class="endereco">Esplanada dos Ministérios, Bloco "F", Edifício Sede, Sala 531 - CEP: 70.056-900 -
+                    Brasília/DF </div>
+            </div>
+        </div>
+        <div class="rais-serpro">
+            <div class="container">
+                <div>Solução desenvolvida pelo <img alt="Marca SERPRO Solução de Desenvolvimento" height="33"
+                        src="http://rais.gov.br/sitio/img/serpro_100.png" width="100" /></div>
+            </div>
+        </div>
+    </footer>
+    <script src="http://barra.brasil.gov.br/barra.js"></script>
+</body>
+
+</html>
