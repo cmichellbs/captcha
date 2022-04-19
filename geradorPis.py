@@ -2,7 +2,7 @@ import string
 from random import randint
 
 
-def geradorDePisPasep( formatar ):
+def geradorDePisPasep( formatar=False ):
 
    # 9 números aleatórios
    arNumeros = []
