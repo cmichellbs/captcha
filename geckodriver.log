@@ -17018,3 +17018,141 @@ Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1650631849253	geckodriver	INFO	Listening on 127.0.0.1:41511
+1650631849256	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "33827" "-no-remote" "-profile" "/tmp/rust_mozprofilecqLZIv"
+*** You are running in headless mode.
+1650631849558	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecqLZIv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33827/devtools/browser/41da3fd8-0023-4ed5-a93b-fccbf1b8651c
+1650631850544	Marionette	INFO	Listening on port 43249
+1650631850572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1650631919425	geckodriver	INFO	Listening on 127.0.0.1:53173
+1650631919428	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "59015" "-no-remote" "-profile" "/tmp/rust_mozprofileqlZXhO"
+*** You are running in headless mode.
+1650631919721	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqlZXhO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59015/devtools/browser/a171bd6f-75b7-47a5-bce3-735c820620da
+1650631920848	Marionette	INFO	Listening on port 39129
+1650631920947	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1650632011169	geckodriver	INFO	Listening on 127.0.0.1:47757
+1650632011678	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "33427" "-no-remote" "-profile" "/tmp/rust_mozprofileOzx9Gx"
+*** You are running in headless mode.
+1650632012164	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOzx9Gx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33427/devtools/browser/1b5571f0-6f77-41d4-849d-5e9f7b33eaf9
+1650632013880	Marionette	INFO	Listening on port 42953
+1650632013901	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1650632120919	geckodriver	INFO	Listening on 127.0.0.1:44381
+1650632120922	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "50091" "-no-remote" "-profile" "/tmp/rust_mozprofile9sp0Th"
+*** You are running in headless mode.
+1650632121277	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9sp0Th/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50091/devtools/browser/d0a5dd3c-4c19-4d22-a8ce-0d6ba30bba9b
+1650632122565	Marionette	INFO	Listening on port 35605
+1650632122653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1650632268405	geckodriver	INFO	Listening on 127.0.0.1:41919
+1650632268410	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "44729" "-no-remote" "-profile" "/tmp/rust_mozprofile4k61qD"
+*** You are running in headless mode.
+1650632268778	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4k61qD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44729/devtools/browser/a86213f0-b659-4343-a615-c8e52aaa2e8b
+1650632270488	Marionette	INFO	Listening on port 40113
+1650632270536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1650632671119	geckodriver	INFO	Listening on 127.0.0.1:39951
+1650632671123	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "42537" "-no-remote" "-profile" "/tmp/rust_mozprofile87Y1G2"
+*** You are running in headless mode.
+1650632671446	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile87Y1G2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42537/devtools/browser/ae6d8ec9-1894-44e3-a872-9d655a77d2f0
+1650632672432	Marionette	INFO	Listening on port 45079
+1650632672542	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1650632749650	geckodriver	INFO	Listening on 127.0.0.1:60191
+1650632749652	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "54471" "-no-remote" "-profile" "/tmp/rust_mozprofileRcFPWZ"
+*** You are running in headless mode.
+1650632749954	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRcFPWZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54471/devtools/browser/e77fe2e6-8a18-4aea-8d74-fc040633b5ab
+1650632751277	Marionette	INFO	Listening on port 36431
+1650632751374	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
