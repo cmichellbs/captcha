@@ -1,3 +1,5 @@
+from datetime import datetime
+import logging
 from cv2 import sort
 from keras.models import load_model
 from helpers import resize_to_fit
@@ -6,6 +8,7 @@ import cv2
 import pickle
 from imagens_utils import tratarImagensAdaptativo
 from imagens_utils import getLetrasAdaptativo
+import os
 import glob
 
 def quebrarCaptcha ():
@@ -29,8 +32,11 @@ def quebrarCaptcha ():
         captcha.append(predict)
     texto_previsao = "".join(captcha)
     print(texto_previsao)
+    os.system('rm -r resolver/*')
+    os.system('rm -r tratado/*')
+    os.system('rm -r letras/*')
+    logging.info(f'{datetime.now()}:Captcha resolvido!')
     return texto_previsao
-
 if __name__=='__main__':
     quebrarCaptcha()
 

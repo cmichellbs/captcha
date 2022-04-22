@@ -1,7 +1,6 @@
 import string
 from random import randint
 
-
 def geradorDePisPasep( formatar=False ):
 
    # 9 números aleatórios
@@ -28,3 +27,5 @@ def geradorDePisPasep( formatar=False ):
       return pis[ :10 ] + '-' + pis[ 10: ]
    else:
       return pis
+
+

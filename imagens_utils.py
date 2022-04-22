@@ -1,31 +1,16 @@
+import logging
+
+
 import base64
 import glob
 from random import randint
 import os
 import cv2
 from PIL import Image
+from datetime import datetime
 
-from geradorPis import geradorDePisPasep
 
-from selenium import webdriver
-
-from selenium.webdriver.firefox.options import Options
-from selenium.webdriver.support.ui import WebDriverWait
 from helpers import resize_to_fit
-
-def getImagens(xpath_refresh=None, xpath_imagem=None, pasta=None, auto_refresh=False, index=0):
-    if auto_refresh:
-        navegador.find_element_by_xpath(f'{xpath_refresh}').click()
-    img = navegador.find_element_by_xpath(f'{xpath_imagem}').get_attribute('src').split(',')[1]
-    img=base64.b64encode(base64.b64decode(img))
-    fh = open(f"imagem{index}.png", "wb")
-    fh.write(base64.decodebytes(img))
-    fh.close()
-    imagem = cv2.imread(f"imagem{index}.png",1)
-    img_scale_up = cv2.resize(imagem, (0, 0), fx=3, fy=3)
-    if pasta is not None:
-        cv2.imwrite(f'{pasta}/imagem{index}.png',img_scale_up)
-    cv2.imwrite(f'imagem{index}.png',img_scale_up)
 
 
 def tratarImagensAdaptativo(origem = None,destino =None):
@@ -37,6 +22,7 @@ def tratarImagensAdaptativo(origem = None,destino =None):
         imagem_tratada = cv2.adaptiveThreshold(imagem,255,cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY,661,138)
         nome_arquivo = os.path.basename(arquivo)
         cv2.imwrite(f'{destino}/{nome_arquivo}',imagem_tratada)
+    logging.info(f'{datetime.now()}:Tratamento de imagens realizado com sucesso')
     
         
 def getLetrasAdaptativo(origem= None,destino=None):
@@ -60,6 +46,7 @@ def getLetrasAdaptativo(origem= None,destino=None):
             i+=1
             nome_arquivo = os.path.basename(imagem).replace(".png",f"letra{i}.png")
             cv2.imwrite(f'{destino}/{nome_arquivo}',letra)
+    logging.info(f'{datetime.now()}:Letras extraídas das imagens sucesso')
 
 def getLetras(origem= None):
     arquivos = glob.glob(f'{origem}/*')
