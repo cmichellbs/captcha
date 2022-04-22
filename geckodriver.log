@@ -17156,3 +17156,1771 @@ Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1650648719763	geckodriver	INFO	Listening on 127.0.0.1:41075
+1650648720269	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "42321" "-no-remote" "-profile" "/tmp/rust_mozprofileyc8oXP"
+*** You are running in headless mode.
+1650648720701	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyc8oXP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42321/devtools/browser/b8f01d8a-d553-4c85-995a-93d801f45023
+1650648721604	Marionette	INFO	Listening on port 40953
+1650648721684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1650649286441	geckodriver	INFO	Listening on 127.0.0.1:60339
+1650649286443	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "47265" "-no-remote" "-profile" "/tmp/rust_mozprofileiDgM8i"
+*** You are running in headless mode.
+1650649286943	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiDgM8i/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47265/devtools/browser/2c15cf88-7ad7-486f-8ed9-91efc70e0a44
+1650649288113	Marionette	INFO	Listening on port 45945
+1650649288169	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1650657933598	geckodriver	INFO	Listening on 127.0.0.1:52857
+1650657933600	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "38803" "-no-remote" "-profile" "/tmp/rust_mozprofile7L7buL"
+*** You are running in headless mode.
+1650657933869	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7L7buL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38803/devtools/browser/4f9391c0-ff57-48fb-97f6-2db4ac8c164a
+1650657934893	Marionette	INFO	Listening on port 46745
+1650657934915	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1650657986268	geckodriver	INFO	Listening on 127.0.0.1:48063
+1650657986271	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "45447" "-no-remote" "-profile" "/tmp/rust_mozprofile3iVh60"
+*** You are running in headless mode.
+1650657986533	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3iVh60/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45447/devtools/browser/70a81c5f-fda7-4aac-9b49-be36a5d4fdbb
+1650657987719	Marionette	INFO	Listening on port 44619
+1650657987789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1650659884064	geckodriver	INFO	Listening on 127.0.0.1:54649
+1650659884068	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "46401" "-no-remote" "-profile" "/tmp/rust_mozprofileKzw0fh"
+*** You are running in headless mode.
+1650659884342	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKzw0fh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46401/devtools/browser/50a5afab-f077-45bd-9151-63ea57a22be8
+1650659885142	Marionette	INFO	Listening on port 38865
+1650659885180	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+1650659982546	Marionette	INFO	Stopped listening on port 38865
+1650660273736	geckodriver	INFO	Listening on 127.0.0.1:51645
+1650660273739	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "33895" "-no-remote" "-profile" "/tmp/rust_mozprofilebHomxh"
+*** You are running in headless mode.
+1650660274005	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebHomxh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33895/devtools/browser/d222889f-d9ce-461d-8be7-37786900ee0c
+1650660274801	Marionette	INFO	Listening on port 34967
+1650660274853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+1650660418123	Marionette	INFO	Stopped listening on port 34967
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650660860228	geckodriver	INFO	Listening on 127.0.0.1:55737
+1650660860231	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "38089" "-no-remote" "-profile" "/tmp/rust_mozprofilevoVn8r"
+*** You are running in headless mode.
+1650660860494	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevoVn8r/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38089/devtools/browser/477b0e8c-7301-4f1d-b570-35fdb837af22
+1650660861268	Marionette	INFO	Listening on port 32985
+1650660861343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+1650661916455	Marionette	INFO	Stopped listening on port 32985

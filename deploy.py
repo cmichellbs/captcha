@@ -38,13 +38,13 @@ def get_imagem():
 
 
 dataset = pd.DataFrame()
-df = pd.read_csv('pis/pis.csv')
+
 option = Options()
 option.headless = True
 navegador = webdriver.Firefox(options=option,keep_alive=False)
 navegador.get('http://rais.gov.br/sitio/consulta_trabalhador_identificacao.jsf')
-for i in range(len(df)):
-    pis = df.iloc[i]['pis']
+for i in range(int(sys.argv[2])):
+    pis = geradorDePisPasep()
 
     time.sleep(randint(1,4))
 

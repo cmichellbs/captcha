@@ -6,7 +6,8 @@ def geradorDePisPasep( formatar=False ):
 
    # 9 números aleatórios
    arNumeros = []
-   for i in range(10):
+   arNumeros.append(randint(0,2))
+   for i in range(9):
       arNumeros.append( randint(0,9) )      
 
    # Calculado DV
@@ -28,12 +29,3 @@ def geradorDePisPasep( formatar=False ):
       return pis[ :10 ] + '-' + pis[ 10: ]
    else:
       return pis
-
-
-if __name__ == '__main__':
-   pis = []
-   for i in range(500000):
-      pis.append( geradorDePisPasep())
-   df = pd.DataFrame( pis, columns=['pis'] )
-   df.drop_duplicates(subset='pis', keep='first')
-   df.to_csv( 'pis/pis.csv', index=False )
