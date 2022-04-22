@@ -5,5 +5,5 @@ resolver/*
 amostra/*
 ajeitado/*
 minerador.log
-__pycache__/*
+__pycache__
 .vscode
