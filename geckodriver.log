@@ -16911,3 +16911,110 @@ JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unre
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1650627514421	geckodriver	INFO	Listening on 127.0.0.1:50541
+1650627514426	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "39275" "-no-remote" "-profile" "/tmp/rust_mozprofile0n8C1K"
+*** You are running in headless mode.
+1650627514802	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0n8C1K/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39275/devtools/browser/4ccdc407-90d3-4125-ba0a-88b905a7a241
+1650627515822	Marionette	INFO	Listening on port 39529
+1650627515842	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1650629021923	geckodriver	INFO	Listening on 127.0.0.1:58263
+1650629021925	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "46479" "-no-remote" "-profile" "/tmp/rust_mozprofilebzYemq"
+*** You are running in headless mode.
+1650629022203	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebzYemq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46479/devtools/browser/e825f7d9-e40e-4668-872d-57c61d98c395
+1650629023021	Marionette	INFO	Listening on port 44667
+1650629023037	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1650629920225	geckodriver	INFO	Listening on 127.0.0.1:43707
+1650629920227	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "40509" "-no-remote" "-profile" "/tmp/rust_mozprofileKVvdgR"
+*** You are running in headless mode.
+1650629920482	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKVvdgR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40509/devtools/browser/e5fc3771-1201-4548-9a1d-be31f7c9c522
+1650629921309	Marionette	INFO	Listening on port 44709
+1650629921340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1650630116095	geckodriver	INFO	Listening on 127.0.0.1:59351
+1650630116097	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "38311" "-no-remote" "-profile" "/tmp/rust_mozprofilenG6afB"
+*** You are running in headless mode.
+1650630116411	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenG6afB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38311/devtools/browser/0576233e-3bf6-46ff-8056-d4670cc125b9
+1650630117278	Marionette	INFO	Listening on port 39533
+1650630117314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: http://rais.gov.br/sitio/js/validacoes.js, line 43: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rais.gov.br"
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

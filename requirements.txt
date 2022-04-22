@@ -1,0 +1,11 @@
+beautifulsoup4==4.11.1
+imutils==0.5.4
+tensorflow==2.8.0
+keras==2.8.0
+numpy==1.22.3
+opencv_python==4.5.5.64
+pandas==1.4.2
+pandas_stubs==1.2.0.56
+Pillow==9.1.0
+scikit_learn==1.0.2
+selenium==4.1.3

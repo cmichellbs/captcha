@@ -32,9 +32,9 @@ def quebrarCaptcha ():
         captcha.append(predict)
     texto_previsao = "".join(captcha)
     print(texto_previsao)
-    os.system('rm -r resolver/*')
-    os.system('rm -r tratado/*')
-    os.system('rm -r letras/*')
+    os.system('rm -rf resolver/*')
+    os.system('rm -rf tratado/*')
+    os.system('rm -rf letras/*')
     logging.info(f'{datetime.now()}:Captcha resolvido!')
     return texto_previsao
 if __name__=='__main__':

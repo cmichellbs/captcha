@@ -1,5 +1,6 @@
 import string
 from random import randint
+import pandas as pd
 
 def geradorDePisPasep( formatar=False ):
 
@@ -29,3 +30,10 @@ def geradorDePisPasep( formatar=False ):
       return pis
 
 
+if __name__ == '__main__':
+   pis = []
+   for i in range(500000):
+      pis.append( geradorDePisPasep())
+   df = pd.DataFrame( pis, columns=['pis'] )
+   df.drop_duplicates(subset='pis', keep='first')
+   df.to_csv( 'pis/pis.csv', index=False )

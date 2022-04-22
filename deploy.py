@@ -15,9 +15,63 @@ from quebrarCaptcha import quebrarCaptcha
 import pandas as pd
 import time
 import logging
+
 os.system('rm -rf minerador.log')
 
 logging.basicConfig(filename='minerador.log', encoding='utf-8', level=logging.INFO)
+
+try:
+    os.system('pip3 install -r requirements.txt')
+    logging.info('Instalado pacotes necessários')
+except:
+    logging.error('Erro ao instalar pacotes')
+try:
+    try:
+        os.mkdir('ajeitado')
+        logging.info('Pasta ajeitado criada com sucesso')
+    except:
+        logging.info('Pasta ajeitado já existe')
+    try:
+        os.mkdir('amostra')
+        logging.info('Pasta amostra criada com sucesso')
+    except:
+        logging.info('Pasta amostra já existe')
+    try:
+        os.mkdir('base_letras')
+        logging.info('Pasta base_letras criada com sucesso')
+    except:
+        logging.info('Pasta base_letras já existe')
+    try:
+        os.mkdir('bdcaptcha')
+        logging.info('Pasta bdcaptcha criada com sucesso')
+    except:
+        logging.info('Pasta bdcaptcha já existe')
+    try:
+        os.mkdir('letras')
+        logging.info('Pasta letras criada com sucesso')
+    except:
+        logging.info('Pasta letras já existe')
+    try:
+        os.mkdir('pis')
+        logging.info('Pasta pis criada com sucesso')
+    except:
+        logging.info('Pasta pis já existe')
+    try:
+        os.mkdir('resolver')
+        logging.info('Pasta resolver criada com sucesso')
+    except:
+        logging.info('Pasta resolver já existe')
+    try:
+        os.mkdir('tratado')
+        logging.info('Pasta tratado criada com sucesso')
+    except:
+        logging.info('Pasta tratado já existe')
+    logging.info('Pastas criadas com sucesso')
+except:
+    logging.info('Pastas já existem')
+    
+
+
 def get_imagem():
     img = navegador.find_element_by_xpath('//*[@id="img_captcha_serpro_gov_br"]').get_attribute('src').split(',')[1]
     img=base64.b64encode(base64.b64decode(img))
@@ -30,7 +84,7 @@ def get_imagem():
 
 
 dataset = pd.DataFrame()
-df = pd.read_csv('pis/pis10.csv')
+df = pd.read_csv('pis/pis.csv')
 option = Options()
 option.headless = True
 navegador = webdriver.Firefox(options=option,keep_alive=False)
