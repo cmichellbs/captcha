@@ -6,7 +6,7 @@ def geradorDePisPasep( formatar=False ):
 
    # 9 números aleatórios
    arNumeros = []
-   arNumeros.append(randint(0,2))
+   arNumeros.append(randint(1,2))
    for i in range(9):
       arNumeros.append( randint(0,9) )      
 

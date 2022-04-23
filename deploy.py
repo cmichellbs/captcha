@@ -35,6 +35,7 @@ def get_imagem():
     imagem = cv2.imread("resolver/imagem.png",1)
     img_scale_up = cv2.resize(imagem, (0, 0), fx=3, fy=3)
     cv2.imwrite(f'resolver/imagem.png',img_scale_up)
+    logging.info(f'{datetime.now()}:Imagem CAPTCHA capturada com sucesso')
 
 
 dataset = pd.DataFrame()
@@ -71,6 +72,7 @@ for i in range(int(sys.argv[2])):
     while tentativaPis:
         try:
             get_imagem()
+            time.sleep(randint(1,4))
             captcha = quebrarCaptcha()
             navegador.find_element_by_xpath('//*[@id="txtTexto_captcha_serpro_gov_br"]').send_keys(f'{captcha}')
             navegador.find_element_by_name(btn_avancar).click()
@@ -81,6 +83,7 @@ for i in range(int(sys.argv[2])):
                 continuar = None
             
             if continuar == None:
+                logging.info(f'{datetime.now()}:{pis} encontrado!')
                 trabalhador = navegador.page_source
                 df_pis = pd.read_html(trabalhador)
                 df_pis = df_pis[0]
@@ -88,7 +91,6 @@ for i in range(int(sys.argv[2])):
                 nome = navegador.find_element_by_xpath('//*[@id="j_idt27"]/div[2]/div/p').get_attribute('innerHTML').split('-')[1].strip()
                 df_pis['nome'] = nome
                 dataset = dataset.append(df_pis,ignore_index=True)
-                logging.info(f'{datetime.now()}:{pis} encontrado!')
                 src2 = navegador.page_source
                 padrao_voltar = '.name="j_idt[0-9]+:j_idt[0-9]+".value="Voltar"'
                 btn_voltar = re.findall(padrao_voltar,src2)
@@ -96,17 +98,17 @@ for i in range(int(sys.argv[2])):
                 navegador.find_element_by_name(btn_voltar).click()
                 tentativaPis = False
             elif continuar == 'PIS inválido.':
+                logging.info(f'{datetime.now()}:{pis} inválido!')
                 tentativaPis = False
-                logging.warning(f'{datetime.now()}:{pis} inválido!')
-            elif continuar == 'Por favor, repita os caracteres da imagem.':
-                navegador.find_element_by_id('btnRecarregar_captcha_serpro_gov_br').click()
-                get_imagem()
                 time.sleep(randint(1,4))
+            elif continuar == 'Por favor, repita os caracteres da imagem.':
+                logging.info(f'{datetime.now()}:Repetindo captcha para {pis}')
+                navegador.find_element_by_id('btnRecarregar_captcha_serpro_gov_br').click()
                 tentativaPis = True
-                logging.warning(f'{datetime.now()}:Repetindo captcha para {pis}')
+                time.sleep(randint(1,4))
             else:
                 tentativaPis = False
-                logging.warning(f'{datetime.now()}:{pis} não existe na base RAIS')
+                logging.info(f'{datetime.now()}:{pis} não existe na base RAIS')
         except:
             tentativaPis = False
             logging.error(f"{datetime.now()}:Erro ao tentar resolver o captcha para os pis {pis}.")
