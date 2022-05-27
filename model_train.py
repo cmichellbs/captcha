@@ -9,7 +9,8 @@ from keras.models import Sequential
 from keras.layers.convolutional import Conv2D, MaxPooling2D
 from keras.layers.core import Flatten, Dense
 from helpers import resize_to_fit
-
+"""função para carregar todas as imagens de uma pasta, padronizar o tamnho da imagem, adicionar a dimensão 2, adicionar a dados e rótulos
+e retornar os dados e os rotulos"""
 def getDados(pasta_imagens=None):
     dados = []
     rotulos = []
@@ -25,17 +26,18 @@ def getDados(pasta_imagens=None):
         #ADICIONAR DIMENSÃO 2
         imagem = np.expand_dims(imagem,axis=2)
         
-        #ADICIONAR A DATA E LABEL
+        #ADICIONAR A DADOS E ROTULOS
         rotulos.append(rotulo)
         dados.append(imagem)
     dados = np.array(dados,dtype="float")/255
     rotulos = np.array(rotulos)
     return dados,rotulos
 
+"""unpack os dados e rotulos e separar em treino e teste"""
 dados,rotulos = getDados(pasta_imagens="base_letras")
 
 (X_train, X_test, Y_train, Y_test) = train_test_split(dados, rotulos, test_size=0.25)
-
+"""transformar os rotulos em binários"""
 lb = LabelBinarizer().fit(Y_train)
 
 Y_train = lb.transform(Y_train)
@@ -46,6 +48,7 @@ Y_test = lb.transform(Y_test)
 with open('rotulos_modelo.dat','wb') as arquivo_pickle:
     pickle.dump(lb, arquivo_pickle)
 
+"""criar a rede neural, modelo sequencial"""
 modelo = Sequential()
 
 # criar as camadas da rede neural
@@ -54,16 +57,14 @@ modelo.add(MaxPooling2D(pool_size=(2, 2), strides=(2, 2)))
 # criar a 2ª camada
 modelo.add(Conv2D(150,(5, 5), padding="same", activation="relu"))
 modelo.add(MaxPooling2D(pool_size=(2, 2), strides=(2, 2)))
-# # criar a 3ª camada
+# criar a 3ª camada
 modelo.add(Conv2D(375, (5, 5), padding="same", activation="relu"))
 modelo.add(MaxPooling2D(pool_size=(2, 2), strides=(2, 2)))
-# # criar a 4ª camada
-# modelo.add(Conv2D(625, (5, 5), padding="same", activation="relu"))
-# modelo.add(MaxPooling2D(pool_size=(2, 2), strides=(2, 2)))
-# mais uma camada
+# criar a 4ª camada flatten
 modelo.add(Flatten())
+# criar a 5ª camada densa
 modelo.add(Dense(1024, activation="relu"))
-# camada de saída
+# camada de saída 
 modelo.add(Dense(49, activation="softmax"))
 # compilar todas as camadas
 

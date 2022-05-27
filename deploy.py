@@ -35,6 +35,7 @@ def get_imagem():
     imagem = cv2.imread("resolver/imagem.png",1)
     img_scale_up = cv2.resize(imagem, (0, 0), fx=3, fy=3)
     cv2.imwrite(f'resolver/imagem.png',img_scale_up)
+    
     logging.info(f'{datetime.now()}:Imagem CAPTCHA capturada com sucesso')
 
 
